@@ -20,6 +20,6 @@ public void setSalary(Double salary) {
 	this.salary = salary;
 }
    public String toString() {
-	   return "Name "+name+" Salary "+salary;
+	   return "Name  of student"+name+" Salary "+salary;
    }
 }
